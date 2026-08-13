@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://subsection-reasonable-marshall-commonly.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://combat-ellis-proceeds-popular.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-13 01:40:37 UTC
+Created   : 2026-08-13 06:25:01 UTC
 =======================================================
