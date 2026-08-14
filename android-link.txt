@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://edited-communications-johnston-demands.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://nancy-wait-regions-issues.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-14 15:58:02 UTC
+Created   : 2026-08-14 20:38:16 UTC
 =======================================================
