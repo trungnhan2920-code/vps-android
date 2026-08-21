@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://preceding-exploring-density-front.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://industries-lifetime-predicted-mile.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-21 10:36:58 UTC
+Created   : 2026-08-21 15:40:03 UTC
 =======================================================
