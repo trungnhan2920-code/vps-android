@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://programs-mem-tier-gray.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://paragraphs-process-cardiac-rio.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-12 22:06:09 UTC
+Created   : 2026-09-13 03:01:24 UTC
 =======================================================
