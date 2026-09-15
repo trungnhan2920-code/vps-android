@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://playlist-employees-distances-crucial.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://weapon-nam-priest-triple.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-15 09:56:27 UTC
+Created   : 2026-09-15 14:48:36 UTC
 =======================================================
