@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://motorcycle-birmingham-caught-rose.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://migration-positions-strikes-story.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-22 22:52:08 UTC
+Created   : 2026-09-23 03:13:07 UTC
 =======================================================
