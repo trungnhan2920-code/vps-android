@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://victor-spots-accurately-rebates.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://deaf-expert-kingdom-sandwich.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-30 23:36:34 UTC
+Created   : 2026-10-01 04:00:18 UTC
 =======================================================
