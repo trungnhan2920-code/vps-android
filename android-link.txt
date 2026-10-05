@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diego-reporting-arizona-customise.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://examine-allied-secretary-cow.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-04 22:52:33 UTC
+Created   : 2026-10-05 03:56:43 UTC
 =======================================================
