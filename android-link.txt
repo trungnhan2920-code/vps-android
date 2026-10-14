@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://explicitly-messenger-her-ship.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://really-briefs-pal-gonna.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-14 10:05:21 UTC
+Created   : 2026-10-14 15:03:48 UTC
 =======================================================
