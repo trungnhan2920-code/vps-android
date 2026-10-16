@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://live-analyzed-cincinnati-wit.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://white-shell-petroleum-basket.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-16 14:41:10 UTC
+Created   : 2026-10-16 18:47:51 UTC
 =======================================================
