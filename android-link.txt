@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wallet-insurance-core-sorted.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://pdt-sparc-restored-gibson.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-15 23:03:26 UTC
+Created   : 2026-10-16 03:05:22 UTC
 =======================================================
