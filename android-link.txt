@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://announced-consumption-bosnia-beads.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://lesson-dental-autos-sorts.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-19 10:40:24 UTC
+Created   : 2026-10-19 20:31:11 UTC
 =======================================================
