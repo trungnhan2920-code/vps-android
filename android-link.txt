@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lesson-dental-autos-sorts.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://incurred-civilization-diagram-solely.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-19 20:31:11 UTC
+Created   : 2026-10-20 03:20:21 UTC
 =======================================================
