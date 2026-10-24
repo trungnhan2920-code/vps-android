@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://implies-integrating-natural-plumbing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://emerging-bargain-installation-discussed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-24 14:01:03 UTC
+Created   : 2026-10-24 17:58:47 UTC
 =======================================================
