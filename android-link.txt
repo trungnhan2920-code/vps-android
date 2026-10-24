@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://emerging-bargain-installation-discussed.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://antibody-watching-importantly-counting.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-24 17:58:47 UTC
+Created   : 2026-10-24 22:24:28 UTC
 =======================================================
