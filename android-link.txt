@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://antibody-watching-importantly-counting.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://graphical-aluminum-defeat-rat.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-24 22:24:28 UTC
+Created   : 2026-10-25 03:07:54 UTC
 =======================================================
