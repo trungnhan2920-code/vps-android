@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://trading-workplace-meat-heights.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://reed-rated-upgrade-vienna.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-05 13:05:32 UTC
+Created   : 2026-11-05 21:30:04 UTC
 =======================================================
