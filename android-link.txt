@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://qui-consultation-latest-rap.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://media-tenant-expires-badly.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-07 04:32:20 UTC
+Created   : 2026-11-07 11:38:33 UTC
 =======================================================
